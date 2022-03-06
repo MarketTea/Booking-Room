@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>898842009983-hkfdjqk43tq8a82171j7hrutg36gsoqa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.898842009983-hkfdjqk43tq8a82171j7hrutg36gsoqa</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCMr0bGX0UdOo3W6qFpDVMiz3P-Xdk9JIE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>898842009983</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>CPSmartBuildingAppIOS</string>
+	<key>PROJECT_ID</key>
+	<string>cp-smart-building-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cp-smart-building-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:898842009983:ios:eb773122eddf6ad8ea3a4a</string>
+</dict>
+</plist>

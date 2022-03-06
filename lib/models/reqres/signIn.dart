@@ -1,0 +1,16 @@
+import 'base.dart';
+import '../user.dart';
+
+class SignInReq extends BaseReq {
+  String email;
+  String password;
+
+  SignInReq({this.email, this.password});
+}
+
+class SignInRes extends BaseRes {
+  User data;
+
+  SignInRes({this.data, int status, String message})
+      : super(status: status, message: message);
+}
